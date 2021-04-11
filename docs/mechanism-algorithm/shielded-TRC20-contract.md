@@ -246,7 +246,7 @@ Return:
     "payment_address": "ztron1npad7w6d3kjyvvnazuyl83zhd38cx6e5w2n22uuxq6rxvpaxllx3cu5euv0vgpz4k8xn2rsga28"
 }
 ```
-
+M
 
 ### Create shielded TRC-20 contract parameters for `mint`
 
@@ -263,7 +263,7 @@ Parameters:
     "shielded_receives": {
        "note": {
           "value": 50,
-          "payment_address": "ztron15js0jkuxczt8caq5hp59rnh6rgf34sek7vqn9u6ljelxv4nuzz2x9qe3ffm2wzz6ck53yxyhxs6",
+          "payment_address": "TXF2GQtDMtDQrgbHXkdvkXGVAqD6o1Sstm",
           "rcm": "74baec30dfac8ed59968955ff245ae002009005194e5b824c35ab88c52e5170e"
        }
     },
@@ -309,7 +309,7 @@ Parameters:
     "shielded_receives": {
        "note": {
           "value": 50,
-          "payment_address": "ztron13lvfnt4rau4ad9mmgztd3aftw49e3amz8gm2kvyzrsaw0ugz2grxwkvcfys5e2gkchj7cnnetjz",
+          "payment_address": "TXF2GQtDMtDQrgbHXkdvkXGVAqD6o1Sstm",
           "rcm": "499e73f2f8aaf05fac41a35b8343bde27f6629cbe66d35da5364a99b94a55a06"
        }
     },
@@ -358,7 +358,7 @@ Parameters:
       {
         "note": {
             "value": 60,
-            "payment_address":"ztron1n2xqnggktc8tfhskevgfvnjjkd4tj6n98e28vdwjyu9p4dz5t55nwazay5y3qnv8cp0xs3fgzgv",
+            "payment_address":"TXF2GQtDMtDQrgbHXkdvkXGVAqD6o1Sstm",
             "rcm": "6760c1f7681752bf9ec18316dfbc2d66ddaae690d77302bdc6d127ff3084af00"
         },
         "alpha": "9a22f748597f7dc83edb3b05b3a3def34f47c4cb13d216be7ce03d2ea9da7e0a",
@@ -369,7 +369,7 @@ Parameters:
      {
         "note": {
             "value": 40,
-            "payment_address":"ztron135rhyme9sqgfdzszmvj0pzhvnthzdl59fqag362lsyrme3xrcjat9am35a390uk0yudskaqppf5",
+            "payment_address":"TXF2GQtDMtDQrgbHXkdvkXGVAqD6o1Sstm",
             "rcm": "9ff13d57e9c5a92405da71d6187bb0c11d6260914788a54f38ad62e4a04ffa04"
         },
         "alpha": "6865f8058e33b3d3dccb8f0b5c39993760d305a711165724d90998fb68c64b00",
@@ -382,14 +382,14 @@ Parameters:
      {
        "note": {
            "value": 30,
-           "payment_address":"ztron16455ldgqwz3sfamz0nymymwcvg0v6qsvn8prqtnznu6dmuuud965ar6rqw3yas48dn9w7ejne59",
+           "payment_address":"TXF2GQtDMtDQrgbHXkdvkXGVAqD6o1Sstm",
            "rcm": "75ba6b5949879ae11229f53728cd6f1eadbb999898e0927d7e9dc4045d806602"
         }
      },
      {
         "note": {
            "value": 70,
-           "payment_address":"ztron1fkcy3738mx4h448cpx76yz5fjsa8c4ra8r4ff8x6s5n4ak5303a5hrgcw66c5syf0y87wqwcrnh",
+           "payment_address":"TXF2GQtDMtDQrgbHXkdvkXGVAqD6o1Sstm",
            "rcm": "43e419fb8abef141f7b9d5d5a30ac743edebf9eb80cd24a344efe3ca091b6008"
         }
      }
@@ -460,7 +460,7 @@ Parameters:
       {
         "note": {
             "value": 60,
-            "payment_address":"ztron1nx3cnncmlcl72ppcrz23krpurxphz9g5yj85zvpgm94g46zs8pq8gd7qrcv8xezp9rryzlar4az",
+            "payment_address":"TXF2GQtDMtDQrgbHXkdvkXGVAqD6o1Sstm",
             "rcm": "4636333870ccc91fb8bfe53ed559f8cf64505672a58d82875694dd38eb3d6404"
         },
         "alpha": "d0f0768664f5c807f9e70d05993f029c71da529afaa5c037b44c63d6e13bc907",
@@ -471,7 +471,7 @@ Parameters:
      {
         "note": {
             "value": 40,
-            "payment_address":"ztron1x54s8nrzf2g85grp729s4pxx7ta3s38lj0jw57qwnuqx0e2wy8sfdcyldyfs9hazhqrs6jjzxhw",
+            "payment_address":"TXF2GQtDMtDQrgbHXkdvkXGVAqD6o1Sstm",
             "rcm": "74908b43975847d5df6c0b40c4d5b1dbe732cb720e6b5bd5a55e7cd10e2a3a05"
         },
         "alpha": "ff3bd6babd3e28da098c67c67f26f2e613a5d1cec966b2f25ca4a943218ee805",
@@ -484,14 +484,14 @@ Parameters:
      {
        "note": {
            "value": 30,
-           "payment_address":"ztron127acwjxf499f43t8mk42ch5jyru68fsw7jun9hfu7pv87we3dnfrwtml8np80gsegksnjfz87vd",
+           "payment_address":"TXF2GQtDMtDQrgbHXkdvkXGVAqD6o1Sstm",
            "rcm": "4172682e3f0398abb7f204220279948b3dd930bc901b1c9223a5cac51b1a7703"
         }
      },
      {
         "note": {
            "value": 70,
-           "payment_address":"ztron1f6dfsq8mxj8pd2f2dvnle4x6ahfrqr4ll2ezp2ez90jmcjtksr2r6s8095ljf7a3mfpn2uklc9r",
+           "payment_address":"TXF2GQtDMtDQrgbHXkdvkXGVAqD6o1Sstm",
            "rcm": "7b4d06b6e0b5ea0172063f7f7e495bb840ff279787bd49adffdcfde65d68700e"
         }
      }
@@ -669,7 +669,7 @@ Parameters:
      {
         "note": {
            "value": 40,
-           "payment_address":"ztron1nupklnacqyjc7ge998f6v2wutm7urdcdupl6j4ypq7qwws5yqfqrlxwvnylucwre8yewx5s0keu",
+           "payment_address":"TXF2GQtDMtDQrgbHXkdvkXGVAqD6o1Sstm",
            "rcm": "f2aa138d0d04b685b236d797458d0cf53749b96bbb6d5f1e6c5f2db31b0b2d09"
         }
      }
@@ -728,7 +728,7 @@ Parameters:
       {
         "note": {
             "value": 60,
-            "payment_address":"ztron1mpwx0380fvw7gacf5hm4vl625ltmdezt0dwp3ssyd84y8jxzp3guqz9utzn35u7038jx6a6ucly",
+            "payment_address":"TXF2GQtDMtDQrgbHXkdvkXGVAqD6o1Sstm",
             "rcm": "b67b18fee3133440bfc4509912b96482fdcacbc0b5679af1785247c94224200c"
         },
         "alpha": "b6de1a3a40764bd7a24147f155011624805bfcd6d21283c69a3f21aea9401201",
@@ -741,7 +741,7 @@ Parameters:
      {
         "note": {
            "value": 40,
-           "payment_address":"ztron1nupklnacqyjc7ge998f6v2wutm7urdcdupl6j4ypq7qwws5yqfqrlxwvnylucwre8yewx5s0keu",
+           "payment_address":"TXF2GQtDMtDQrgbHXkdvkXGVAqD6o1Sstm",
            "rcm": "f2aa138d0d04b685b236d797458d0cf53749b96bbb6d5f1e6c5f2db31b0b2d09"
         }
      }
@@ -979,7 +979,7 @@ Return:
     "noteTxs":[
         {
             "note":{
-                "payment_address":"ztron1e453jrrxwsvj6s480a2rduz28jfedrsjwu0xsfk8psd85hajeyc6jx56nh0x7ngclh6tytr28wn",
+                "payment_address":"TXF2GQtDMtDQrgbHXkdvkXGVAqD6o1Sstm",
                 "value":60,
                 "rcm":"e51c6ef6c51ab1bb289056db13d44c0af35e70e18d76d8e9f270176663d8f50d"
             },
@@ -1013,7 +1013,7 @@ Return:
     "noteTxs":[
         {
             "note":{
-                "payment_address": "ztron1e453jrrxwsvj6s480a2rduz28jfedrsjwu0xsfk8psd85hajeyc6jx56nh0x7ngclh6tytr28wn",
+                "payment_address": "TXF2GQtDMtDQrgbHXkdvkXGVAqD6o1Sstm",
                 "value":60,
                 "rcm":"e51c6ef6c51ab1bb289056db13d44c0af35e70e18d76d8e9f270176663d8f50d"
             },
@@ -1022,7 +1022,7 @@ Return:
         },
         {
             "note":{
-                "payment_address": "ztron129rzep2kymh87rwpp6eqk65l7a395y4w2t4zdma7chca4f8thncedlhkynta8655v3swqwna6qc",
+                "payment_address": "TXF2GQtDMtDQrgbHXkdvkXGVAqD6o1Sstm",
                 "value":20,
                 "rcm":"05f8adce01aa4aa61058b77924d46554edbecb3138f7704d7dc98180c3d88c07"
             },
@@ -1050,7 +1050,7 @@ Parameters:
 {
    "note": {
        "value": 40,
-       "payment_address":"ztron1nzfh9270dvpn0gysedl9gx6wfmh2hve3rtf0m57vla04pfjm3ermmrh9yasa2xnuy2zycsvwawe",
+       "payment_address":"TXF2GQtDMtDQrgbHXkdvkXGVAqD6o1Sstm",
        "rcm": "b269a741bde1de2df79ffccf96d6eb646aa996e6567c208d774e851aef3e1909"
     },
     "ak": "8072d9110c9de9d9ade33d5d0f5890a7aa65b0cde42af7816d187297caf2fd64",
