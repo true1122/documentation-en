@@ -263,7 +263,7 @@ Parameters:
     "shielded_receives": {
        "note": {
           "value": 50,
-          "payment_address": "ztron15js0jkuxczt8caq5hp59rnh6rgf34sek7vqn9u6ljelxv4nuzz2x9qe3ffm2wzz6ck53yxyhxs6",
+          "payment_address": "TGtDzRtSmwFqEXPf9Dx3S8i1otYcSMJMMQ",
           "rcm": "74baec30dfac8ed59968955ff245ae002009005194e5b824c35ab88c52e5170e"
        }
     },
@@ -309,7 +309,7 @@ Parameters:
     "shielded_receives": {
        "note": {
           "value": 50,
-          "payment_address": "ztron13lvfnt4rau4ad9mmgztd3aftw49e3amz8gm2kvyzrsaw0ugz2grxwkvcfys5e2gkchj7cnnetjz",
+          "payment_address": "TGtDzRtSmwFqEXPf9Dx3S8i1otYcSMJMMQ",
           "rcm": "499e73f2f8aaf05fac41a35b8343bde27f6629cbe66d35da5364a99b94a55a06"
        }
     },
@@ -358,7 +358,7 @@ Parameters:
       {
         "note": {
             "value": 60,
-            "payment_address":"ztron1n2xqnggktc8tfhskevgfvnjjkd4tj6n98e28vdwjyu9p4dz5t55nwazay5y3qnv8cp0xs3fgzgv",
+            "payment_address":"TGtDzRtSmwFqEXPf9Dx3S8i1otYcSMJMMQ",
             "rcm": "6760c1f7681752bf9ec18316dfbc2d66ddaae690d77302bdc6d127ff3084af00"
         },
         "alpha": "9a22f748597f7dc83edb3b05b3a3def34f47c4cb13d216be7ce03d2ea9da7e0a",
@@ -369,7 +369,7 @@ Parameters:
      {
         "note": {
             "value": 40,
-            "payment_address":"ztron135rhyme9sqgfdzszmvj0pzhvnthzdl59fqag362lsyrme3xrcjat9am35a390uk0yudskaqppf5",
+            "payment_address":"TGtDzRtSmwFqEXPf9Dx3S8i1otYcSMJMMQ",
             "rcm": "9ff13d57e9c5a92405da71d6187bb0c11d6260914788a54f38ad62e4a04ffa04"
         },
         "alpha": "6865f8058e33b3d3dccb8f0b5c39993760d305a711165724d90998fb68c64b00",
@@ -382,14 +382,14 @@ Parameters:
      {
        "note": {
            "value": 30,
-           "payment_address":"ztron16455ldgqwz3sfamz0nymymwcvg0v6qsvn8prqtnznu6dmuuud965ar6rqw3yas48dn9w7ejne59",
+           "payment_address":"TGtDzRtSmwFqEXPf9Dx3S8i1otYcSMJMMQ",
            "rcm": "75ba6b5949879ae11229f53728cd6f1eadbb999898e0927d7e9dc4045d806602"
         }
      },
      {
         "note": {
            "value": 70,
-           "payment_address":"ztron1fkcy3738mx4h448cpx76yz5fjsa8c4ra8r4ff8x6s5n4ak5303a5hrgcw66c5syf0y87wqwcrnh",
+           "payment_address":"TGtDzRtSmwFqEXPf9Dx3S8i1otYcSMJMMQ",
            "rcm": "43e419fb8abef141f7b9d5d5a30ac743edebf9eb80cd24a344efe3ca091b6008"
         }
      }
