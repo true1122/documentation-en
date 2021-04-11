@@ -263,7 +263,7 @@ Parameters:
     "shielded_receives": {
        "note": {
           "value": 50,
-          "payment_address": "ztron15js0jkuxczt8caq5hp59rnh6rgf34sek7vqn9u6ljelxv4nuzz2x9qe3ffm2wzz6ck53yxyhxs6",
+          "payment_address": "TGtDzRtSmwFqEXPf9Dx3S8i1otYcSMJMMQ",
           "rcm": "74baec30dfac8ed59968955ff245ae002009005194e5b824c35ab88c52e5170e"
        }
     },
@@ -309,7 +309,7 @@ Parameters:
     "shielded_receives": {
        "note": {
           "value": 50,
-          "payment_address": "ztron13lvfnt4rau4ad9mmgztd3aftw49e3amz8gm2kvyzrsaw0ugz2grxwkvcfys5e2gkchj7cnnetjz",
+          "payment_address": "TGtDzRtSmwFqEXPf9Dx3S8i1otYcSMJMMQ",
           "rcm": "499e73f2f8aaf05fac41a35b8343bde27f6629cbe66d35da5364a99b94a55a06"
        }
     },
